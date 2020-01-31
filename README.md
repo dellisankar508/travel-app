@@ -1,11 +1,15 @@
 # travel-app
 
-This application is used for travellers all over the world. It will give nearby hotels details based on user current locations. By using this application user can pay online to the hotals for booking rooms as per user requirements.
+## description
+This application gives list of nearby hotel's in detail.
+User can choose any hotel from the list and check-out online payments.
 
-Tools:-
-This application is cross platform because, it is build by using ionic framework.
-Google maps API is used for getting hotel details and user location.
-This application is fully authenticated by using firebase.
+## Tools
+- Google maps API for getting list of nearby hotels with details and user location.
+- User authenticated with firebase.
+- instamojo integration to make online payments.
+- socket.io is used for message interaction between users.
+
 
 # screens for travel application
 ![into](https://user-images.githubusercontent.com/53073576/69856405-9961f080-12b3-11ea-8537-8d3223211327.png)
