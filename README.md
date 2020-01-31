@@ -1,6 +1,12 @@
 # travel-app
 
-This app is build by using ionic framework.
+This application is used for travellers all over the world. It will give nearby hotels details based on user current locations. By using this application user can pay online to the hotals for booking rooms as per user requirements.
+
+Tools:-
+This application is cross platform because, it is build by using ionic framework.
+Google maps API is used for getting hotel details and user location.
+This application is fully authenticated by using firebase.
+
 # screens for travel application
 ![into](https://user-images.githubusercontent.com/53073576/69856405-9961f080-12b3-11ea-8537-8d3223211327.png)
 ![settings](https://user-images.githubusercontent.com/53073576/69856407-99fa8700-12b3-11ea-9d6a-a6d4674cc4f6.png)
