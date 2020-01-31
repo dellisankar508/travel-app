@@ -1,5 +1,6 @@
 # travel-app
 
+This app is build by using ionic framework.
 # screens for travel application
 ![into](https://user-images.githubusercontent.com/53073576/69856405-9961f080-12b3-11ea-8537-8d3223211327.png)
 ![settings](https://user-images.githubusercontent.com/53073576/69856407-99fa8700-12b3-11ea-9d6a-a6d4674cc4f6.png)
